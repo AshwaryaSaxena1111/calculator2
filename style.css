@@ -1,0 +1,33 @@
+.container{
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    height: 460px;
+    background-color: rgb(77, 75, 75);
+    padding: auto;
+    margin:auto;
+    border-radius: 15px;
+}
+#inputtext{
+    background-color: rgb(134, 146, 111);
+    width: 345px;
+    height: 43px;
+    border-radius: 5px;
+}
+.first{
+    width: 90px;
+    height: 50px;
+    margin-left: 1px;
+    border-radius: 5px;
+}
+.clearAll{
+    background-color: rgb(202, 131, 54);
+    width: 280px;
+    height: 43px;
+    border-radius: 5px;
+    margin-left: 42px;
+}
+.one{
+    justify-content: space-between;
+}
